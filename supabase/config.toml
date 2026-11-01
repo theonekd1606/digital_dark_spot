@@ -1,0 +1,2 @@
+[functions.research-api]
+verify_jwt = false
